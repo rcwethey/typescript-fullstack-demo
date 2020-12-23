@@ -1,13 +1,13 @@
-# TypeORM TS Backend Boilerplate
+# Typescript Fullstack Demo
 
-This is the baseline project for a TypeORM TS Backend Project 
+This is the baseline project for a TypeORM TS Fullstack Project 
 ***
 
 1. Run npm install to install all the modules
 2. Configure your ormconfig.env to connect to your database successfully. 
 3. Run "npm run dev" in order to start development of your project.
 
-This boilerplate is using `TypeScript`, `Express`, `Node.js`, `TypeORM`, `MySQL`, `ApolloServer`, `TS-Node-Dev`, `Type-GraphQL`, and the types that are accosicated with express, node, and type-graphql.
+This boilerplate is using `TypeScript`, `Express`, `Node.js`, `TypeORM`, `MySQL`, `ApolloServer`, `TS-Node-Dev`, `Type-GraphQL`, `React`, and the types that are accosicated with express, node, and type-graphql.
 
 The scripts involved in this are build, dev, and start.
 
